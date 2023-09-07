@@ -1,0 +1,103 @@
+{
+  "parent": "index.json",
+  "context": {
+    "market": "vietnam"
+  },
+  "sections": {
+    "22c4eda7-1508-4b13-b0b4-1520fa8ebb74": {
+      "type": "featured-collection",
+      "disabled": false,
+      "settings": {
+        "title": "In Viet Nam",
+        "heading_size": "h1",
+        "description": "",
+        "show_description": false,
+        "description_style": "body",
+        "collection": "tee",
+        "products_to_show": 4,
+        "columns_desktop": 4,
+        "full_width": false,
+        "show_view_all": true,
+        "view_all_style": "solid",
+        "enable_desktop_slider": false,
+        "color_scheme": "",
+        "header-d4ec7d3f8f1b8257c0f51ab02ddf8352": null,
+        "image_ratio": "adapt",
+        "image_shape": "default",
+        "show_secondary_image": false,
+        "show_vendor": false,
+        "show_rating": false,
+        "enable_quick_add": false,
+        "header-51caa685a69f6e888e0b409c41b12ade": null,
+        "columns_mobile": "2",
+        "swipe_on_mobile": false,
+        "header-985c16ad2d6fd7946316a639ba87249f": null,
+        "padding_top": 36,
+        "padding_bottom": 36
+      },
+      "blocks": {},
+      "block_order": []
+    },
+    "image_banner": {
+      "disabled": true,
+      "settings": {},
+      "blocks": {
+        "heading": {
+          "settings": {
+            "heading": "Duyệt qua các sản phẩm mới nhất của chúng tôi"
+          }
+        }
+      }
+    },
+    "1be8ce55-f26e-4f8d-a9f0-3954aa6b4f9f": {
+      "disabled": true,
+      "settings": {
+        "title": "Bộ sưu tập ở Viet",
+        "columns_desktop": 2
+      },
+      "blocks": {
+        "template--20205680001318__1be8ce55-f26e-4f8d-a9f0-3954aa6b4f9f-featured_collection-3": {
+          "disabled": true,
+          "settings": {}
+        },
+        "cb8eee39-2f56-45cb-b4e0-b3a6e8ac5ee9": {
+          "disabled": true,
+          "settings": {}
+        }
+      },
+      "block_order": [
+        "template--20205680001318__1be8ce55-f26e-4f8d-a9f0-3954aa6b4f9f-featured_collection-1",
+        "template--20205680001318__1be8ce55-f26e-4f8d-a9f0-3954aa6b4f9f-featured_collection-2",
+        "template--20205680001318__1be8ce55-f26e-4f8d-a9f0-3954aa6b4f9f-featured_collection-3",
+        "cb8eee39-2f56-45cb-b4e0-b3a6e8ac5ee9"
+      ]
+    },
+    "featured_collection": {
+      "disabled": false,
+      "settings": {
+        "title": "Featured products in Viet Nam",
+        "products_to_show": 4
+      },
+      "blocks": {}
+    },
+    "3a20794c-b1c0-4294-9a47-e7d10259d2b0": {
+      "disabled": true,
+      "settings": {},
+      "blocks": {}
+    },
+    "234b4591-3d8c-4d26-9390-9f19dd273ec5": {
+      "disabled": true,
+      "settings": {},
+      "blocks": {}
+    }
+  },
+  "order": [
+    "image_banner",
+    "1be8ce55-f26e-4f8d-a9f0-3954aa6b4f9f",
+    "featured_collection",
+    "22c4eda7-1508-4b13-b0b4-1520fa8ebb74",
+    "3a20794c-b1c0-4294-9a47-e7d10259d2b0",
+    "1690884266ae2318b3",
+    "234b4591-3d8c-4d26-9390-9f19dd273ec5"
+  ]
+}
